@@ -1,0 +1,33 @@
+@font-face {
+    font-family: fonte1;
+    src: url(desafio_site/fonts/fwy.ttf);
+}
+
+body {
+    margin: 0;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #E6D2D1;
+    padding: 5px;
+}
+
+header img {
+    width: 150px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+}
+
+nav a {
+    margin-left: 10px;
+    background-color: #CC8D0A;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+    font-family: fonte1;
+}
