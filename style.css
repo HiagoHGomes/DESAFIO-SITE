@@ -154,6 +154,82 @@ input {
     text-align: center;
     border-radius: 10px;
     padding: 5px;
+    cursor: pointer;
+}
+
+#barra4 {
+    width: 100%;
+}
+
+.main4 {
+    background-color: #E6D2D1;
+    margin-top: -13px;
+    text-align: center;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: unset;
+
+}
+
+.followMe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.followMe h1{
+    text-align: center;
+    font-family: fonte1;
+    font-size: 26px;
+    border-radius: 10px;
+    color: #8F6243;
+    padding: 10px;
+    background-color: white;
+}
+
+.background {
+    display: flex;
+    justify-content: space-around;
+}
+
+.background img{
+    width: 150px;
+}
+
+.bd2 {
+    padding-top: 150px;
+    margin-left: 250px;
+}
+
+.img1 {
+    margin-top: -300px;
+}
+
+.fotos {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.fotos img {
+    width: 250px;
+    margin-right: 30px;
+}
+
+.testando{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.testando h2{
+    background-color: #CC8E09;
+    font-family: fonte1;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
 }
 
 
