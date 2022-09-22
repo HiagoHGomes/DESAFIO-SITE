@@ -110,6 +110,54 @@ a:hover {
     width: 100%;
 }
 
+.main3 {
+    background-color: #C49E95;
+    margin-top: -4px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.livro {
+    display: flex;
+}
+
+.book {
+    width: 300px;
+    margin-top: 25px;
+    margin-left: -310px;
+}
+
+form, h1, h2 {
+    font-family: fonte1;
+    font-size: 15px;
+}
+
+form h1, h2 {
+    color: #fff;
+}
+
+label {
+    color: #A46C47;
+}
+
+input {
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.botao {
+    background-color: #C98E10;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+
 
 
 
